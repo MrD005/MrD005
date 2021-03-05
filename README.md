@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
-## I'm a 3rd year Cyber-security student!!
+## I'm a 3rd year Graphics & Gaming student!!
 
 - 🔭 I’m currently working on Bot that will help me in making my cyber-security work easy 🤣
 - 🌱 I’m currently learning everything xd
