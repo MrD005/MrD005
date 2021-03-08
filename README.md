@@ -4,15 +4,6 @@
 
 ## I'm a 3rd year Graphics & Gaming student!!
 
-- 🔭 I’m currently working on Bot that will help me in making my cyber-security work easy 🤣
-- 🌱 I’m currently learning everything xd
-- 👯 I’m looking to collaborate with other cyber-security enthusiast
-- 🥅 2020 Goals: Looking Forward to start contributing  to Open Source projects
-- ⚡ Fun fact: I love to listen to Rap music 
-
-
-
-
 
 ---
 
@@ -20,8 +11,8 @@
 
 <img align="left" alt="C " width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="C++ " width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Python " width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C# " width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
 
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
